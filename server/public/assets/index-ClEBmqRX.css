@@ -1,0 +1,1 @@
+#root{margin:0 auto;text-align:center}.message{display:grid;justify-items:left;margin:1em 0}.user-message{display:grid;justify-items:right;margin:1em 0}.message-bubble{max-width:70%;min-width:30%;border:2px solid;border-radius:10px;padding:10px;word-wrap:break-word}.message-text{word-wrap:break-word;margin-bottom:.5em}
